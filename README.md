@@ -1,46 +1,72 @@
 <div align="center">
 
-# Hey there, I'm Chandu! 👋
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20I'm%20Chandu!%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Creator&descAlignY=55&descSize=18" width="100%"/>
 
-### Web Developer · Problem Solver · Lifelong Learner
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub+Profile!+🚀;Building+the+web+one+page+at+a+time+💻;Always+learning%2C+always+growing+🌱)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=23q71a4265-netizen&color=blueviolet&style=flat-square)](https://github.com/23q71a4265-netizen)
-[![GitHub followers](https://img.shields.io/github/followers/23q71a4265-netizen?label=Follow&style=flat-square&color=blueviolet)](https://github.com/23q71a4265-netizen)
+<br/>
+
+<!-- Badges row -->
+[![Profile Views](https://komarev.com/ghpvc/?username=23q71a4265-netizen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/23q71a4265-netizen)
+[![GitHub followers](https://img.shields.io/github/followers/23q71a4265-netizen?label=Followers&style=for-the-badge&color=ff69b4&labelColor=black)](https://github.com/23q71a4265-netizen)
+[![GitHub stars](https://img.shields.io/github/stars/23q71a4265-netizen?label=Stars&style=for-the-badge&color=yellow&labelColor=black)](https://github.com/23q71a4265-netizen)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 Currently building **web projects** with HTML & real-world purpose
-- 🌱 Growing my skills in **frontend development** day by day
-- 💼 Creator of [Sri Vijaya Durga Transport](https://github.com/23q71a4265-netizen/srivijayadurgatransport) — a business website project
-- ⚡ I enjoy turning ideas into clean, functional web pages
-- 📍 Based in **Andhra Pradesh, India**
+## 🧑‍💻 About Me
+
+```yaml
+Name     : Chandu
+Role     : Web Developer
+Location : Andhra Pradesh, India 🇮🇳
+Focus    : Frontend Development
+Status   : Open to Opportunities 🚀
+```
+
+- 🔭 Building **real-world web projects** from scratch
+- 🌱 Currently levelling up in **JavaScript & CSS animations**
+- 💼 Made [Sri Vijaya Durga Transport](https://github.com/23q71a4265-netizen/srivijayadurgatransport) — a live business site
+- ⚡ Fun fact: I love making things look beautiful on the web!
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 <div align="center">
 
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🚛 Sri Vijaya Durga Transport](https://github.com/23q71a4265-netizen/srivijayadurgatransport) | A professional transport business website | HTML, CSS |
-| [🌐 Arjunchandu200](https://github.com/23q71a4265-netizen/Arjunchandu200) | Personal web project | HTML |
+<div align="center">
+
+| 🌟 Project | 📝 Description | 🔗 Link |
+|:---:|:---:|:---:|
+| 🚛 **Sri Vijaya Durga Transport** | Professional transport business website with live deployment | [![Repo](https://img.shields.io/badge/View-Repo-blueviolet?style=for-the-badge&logo=github)](https://github.com/23q71a4265-netizen/srivijayadurgatransport) |
+| 🌐 **Arjunchandu200** | Personal portfolio web project | [![Repo](https://img.shields.io/badge/View-Repo-ff69b4?style=for-the-badge&logo=github)](https://github.com/23q71a4265-netizen/Arjunchandu200) |
+
+</div>
 
 ---
 
@@ -48,28 +74,47 @@
 
 <div align="center">
 
-![Chandu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23q71a4265-netizen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=23q71a4265-netizen&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=F59E0B&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=23q71a4265-netizen&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=F59E0B&currStreakLabel=ffffff" width="48%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23q71a4265-netizen&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23q71a4265-netizen&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" width="40%"/>
 
----
+<br/><br/>
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-23q71a4265--netizen-181717?style=for-the-badge&logo=github)](https://github.com/23q71a4265-netizen)
+<!-- Activity graph -->
+[![Chandu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=23q71a4265-netizen&bg_color=0D1117&color=A855F7&line=F59E0B&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-*"Code is not just syntax — it's a solution waiting to happen."* 🚀
+[![trophy](https://github-profile-trophy.vercel.app/?username=23q71a4265-netizen&theme=radical&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-⭐ **Feel free to explore my repositories and leave a star if you find something useful!**
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-23q71a4265--netizen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23q71a4265-netizen)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 *"Code is not just syntax — it's a solution waiting to happen."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
