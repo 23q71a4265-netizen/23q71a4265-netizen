@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated header banner -->
+<!-- Animated wave header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20I'm%20Chandu!%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%7C%20Problem%20Solver%20%7C%20Creator&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
@@ -8,7 +8,6 @@
 
 <br/>
 
-<!-- Badges row -->
 [![Profile Views](https://komarev.com/ghpvc/?username=23q71a4265-netizen&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/23q71a4265-netizen)
 [![GitHub followers](https://img.shields.io/github/followers/23q71a4265-netizen?label=Followers&style=for-the-badge&color=ff69b4&labelColor=black)](https://github.com/23q71a4265-netizen)
 [![GitHub stars](https://img.shields.io/github/stars/23q71a4265-netizen?label=Stars&style=for-the-badge&color=yellow&labelColor=black)](https://github.com/23q71a4265-netizen)
@@ -17,7 +16,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98079d2a2dc2b1f3388fc70a5/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
 ## 🧑‍💻 About Me
 
@@ -63,7 +62,7 @@ Status   : Open to Opportunities 🚀
 
 | 🌟 Project | 📝 Description | 🔗 Link |
 |:---:|:---:|:---:|
-| 🚛 **Sri Vijaya Durga Transport** | Professional transport business website with live deployment | [![Repo](https://img.shields.io/badge/View-Repo-blueviolet?style=for-the-badge&logo=github)](https://github.com/23q71a4265-netizen/srivijayadurgatransport) |
+| 🚛 **Sri Vijaya Durga Transport** | Professional transport business website | [![Repo](https://img.shields.io/badge/View-Repo-blueviolet?style=for-the-badge&logo=github)](https://github.com/23q71a4265-netizen/srivijayadurgatransport) |
 | 🌐 **Arjunchandu200** | Personal portfolio web project | [![Repo](https://img.shields.io/badge/View-Repo-ff69b4?style=for-the-badge&logo=github)](https://github.com/23q71a4265-netizen/Arjunchandu200) |
 
 </div>
@@ -83,7 +82,6 @@ Status   : Open to Opportunities 🚀
 
 <br/><br/>
 
-<!-- Activity graph -->
 [![Chandu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=23q71a4265-netizen&bg_color=0D1117&color=A855F7&line=F59E0B&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
